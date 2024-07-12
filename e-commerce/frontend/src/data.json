@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "name": "Takım",
+        "price": {
+            "oldPrice": 1650.00,
+            "newPrice": 1080.00
+        },
+        "discount": 22,
+        "img": {
+            "singleImage": "img/products/product1/1.png",
+            "thumbs": [
+                "img/products/product1/1.png",
+                "img/products/product1/2.png",
+                "img/products/product1/3.png"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Gömlek",
+        "price": {
+            "oldPrice": 2080.00,
+            "newPrice": 1000.00
+        },
+        "discount": 33,
+        "img": {
+            "singleImage": "img/products/product2/1.png",
+            "thumbs": [
+                "img/products/product2/1.png",
+                "img/products/product2/2.png",
+                "img/products/product2/3.png"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Elbise",
+        "price": {
+            "oldPrice": 1650.00,
+            "newPrice": 380.00
+        },
+        "discount": 90,
+        "img": {
+            "singleImage": "img/products/product3/1.png",
+            "thumbs": [
+                "img/products/product3/1.png",
+                "img/products/product3/2.png",
+                "img/products/product3/3.png"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Hırka",
+        "price": {
+            "oldPrice": 1650.00,
+            "newPrice": 480.00
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "img/products/product4/1.png",
+            "thumbs": [
+                "img/products/product4/1.png",
+                "img/products/product4/2.png",
+                "img/products/product4/3.png"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "Gömlek",
+        "price": {
+            "oldPrice": 1650.00,
+            "newPrice": 480.00
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "img/products/product5/1.png",
+            "thumbs": [
+                "img/products/product5/1.png",
+                "img/products/product5/2.png",
+                "img/products/product1/3.png",
+                "img/products/product1/2.png"
+            ]
+        }
+    }
+]
