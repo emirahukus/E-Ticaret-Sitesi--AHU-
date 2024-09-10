@@ -12,6 +12,7 @@ Bu proje, **MERN stack** (MongoDB, Express.js, React.js, Node.js) kullanılarak 
 ![Ana Sayfa](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/7.png?raw=true)
 ![Ana Sayfa](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/8.png?raw=true)
 - **Alışveriş Bölümü**: Kullanıcıların ürünleri görüntüleyip sepete ekleyebileceği ve satın alma işlemlerini gerçekleştirebileceği kapsamlı bir alışveriş bölümü.
+![Alışveriş](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/10.png?raw=true)
 - **Kullanıcı Giriş İşlemleri**: Güvenli ve kolay kullanıcı hesap yönetimi; giriş yapma, yeni hesap oluşturma ve şifre sıfırlama.
 - **Admin Paneli**: Yöneticiye aşağıdaki işlevleri sağlamak için kapsamlı bir yönetim paneli:
   - **Ürün Yönetimi**: Ürün oluşturma, düzenleme ve silme işlemleri.
