@@ -13,13 +13,27 @@ Bu proje, **MERN stack** (MongoDB, Express.js, React.js, Node.js) kullanılarak 
 ![Ana Sayfa](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/8.png?raw=true)
 - **Alışveriş Bölümü**: Kullanıcıların ürünleri görüntüleyip sepete ekleyebileceği ve satın alma işlemlerini gerçekleştirebileceği kapsamlı bir alışveriş bölümü.
 ![Alışveriş](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/10.png?raw=true)
+- **İletişim Bölümü**: Kullanıcıların ürünleri görüntüleyip sepete ekleyebileceği ve satın alma işlemlerini gerçekleştirebileceği kapsamlı bir alışveriş bölümü.
+![İletişim](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/12.png?raw=true)
+![İletişim](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/13.png?raw=true)
 - **Kullanıcı Giriş İşlemleri**: Güvenli ve kolay kullanıcı hesap yönetimi; giriş yapma, yeni hesap oluşturma ve şifre sıfırlama.
+![Giriş](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/11.png?raw=true)
 - **Admin Paneli**: Yöneticiye aşağıdaki işlevleri sağlamak için kapsamlı bir yönetim paneli:
   - **Ürün Yönetimi**: Ürün oluşturma, düzenleme ve silme işlemleri.
+  ![Ürün](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/17.png?raw=true)
   - **Kupon Yönetimi**: Yeni kuponlar oluşturma ve mevcut kuponları yönetme.
+  ![Kupon](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/18.png?raw=true)
   - **Kullanıcı Listesi**: Kayıtlı kullanıcıları görüntüleme ve yönetme.
+  ![Kullanıcı](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/19.png?raw=true)
   - **Kategori Yönetimi**: Yeni kategoriler oluşturma ve mevcut kategorileri düzenleme.
+  ![Kategori](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/15.png?raw=true)
+  ![Kategori](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/16.png?raw=true)
 - **Ödeme Sistemi**: Güvenli ve hızlı ödeme işlemleri için **Stripe** entegrasyonu.
+  ![Ödeme](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/21.png?raw=true)
+  ![Ödeme](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/22.png?raw=true)
+  ![Ödeme](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/23.png?raw=true)
+  ![Ödeme](https://github.com/emirahukus/E-Ticaret-Sitesi--AHU-/blob/main/rsm/20.png?raw=true)
+
 
 ## Teknolojiler
 
