@@ -5,7 +5,7 @@ Bu proje, **MERN stack** (MongoDB, Express.js, React.js, Node.js) kullanılarak 
 ## Özellikler
 
 - **Ana Sayfa**: Kullanıcıların ürünleri keşfedebileceği ve siteye genel bir bakış sağlayan şık bir ana sayfa.
-- (E-Ticaret-Sitesi--AHU-/rsm/1.png)
+- (1.png)
 - **Alışveriş Bölümü**: Kullanıcıların ürünleri görüntüleyip sepete ekleyebileceği ve satın alma işlemlerini gerçekleştirebileceği kapsamlı bir alışveriş bölümü.
 - **Kullanıcı Giriş İşlemleri**: Güvenli ve kolay kullanıcı hesap yönetimi; giriş yapma, yeni hesap oluşturma ve şifre sıfırlama.
 - **Admin Paneli**: Yöneticiye aşağıdaki işlevleri sağlamak için kapsamlı bir yönetim paneli:
